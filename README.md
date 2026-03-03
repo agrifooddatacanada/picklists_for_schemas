@@ -14,3 +14,6 @@ Within the Semantic Engine, you can:
 When a schema containing picklists is used to generate a Data Entry Excel sheet, these controlled values appear as dropdown menus. This constrains user input at the point of entry and reduces the need for later data cleaning.
 
 Picklists are especially useful for categorical variables such as status, method type, location category, or classification codes, where consistent terminology is essential for reliable aggregation and analysis.
+
+# Syntax for .csv picklists
+
