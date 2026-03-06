@@ -1,0 +1,28 @@
+﻿,title,description,keywords,source
+general,,,,https://sis.agr.gc.ca/cansis/nsdb/soil/v2/snt/pmtex1.html
+en, Parent material texture,The texture class of the underlying parent material. ,,
+fr,Texture du matériau parental,La classe de texture du matériau parental sous-jacent.,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Code,Class_en,Description_en,Class_fr,Description_fr
+VC,Very Coarse,"Very Coarse (USDA Texture Classes: VCS,CS,S,GS,CBS).",Très grossier,"Très grossier (classes de texture USDA : VCS, CS, S, GS, CBS)."
+C,Coarse,"Coarse (USDA Texture Classes: FS,LCS,LS,LFS,GLS,CBLS).",Grossier,"Grossier (classes de texture USDA : FS, LCS, LS, LFS, GLS, CBLS)."
+MC,Moderately Coarse,"Moderately Coarse (USDA Texture Classes: VFS,LVFS,CSL,SL,FSL,GSL,CBSL,GFSL).",Modérément grossier,"Modérément grossier (classes de texture USDA : VFS, LVFS, CSL, SL, FSL, GSL, CBSL, GFSL)."
+M,Medium,"Medium (USDA Texture Classes: VFSL,L,SIL,SI,GL,GSIL).",Moyen,"Moyen (classes de texture USDA : VFSL, L, SIL, SI, GL, GSIL)."
+MF,Moderately Fine,"Moderately Fine (USDA Texture Classes: SCL,FSCL,VFSCL,CL,SICL,GSCL,GL,CBCL).",Modérément fin,"Modérément fin (classes de texture USDA : SCL, FSCL, VFSCL, CL, SICL, GSCL, GL, CBCL)."
+F,Fine,"Fine (USDA Texture Classes: SC,SIC,C,GSIC).",Fin,"Fin (classes de texture USDA : SC, SIC, C, GSIC)."
+VF,Very Fine,Very Fine (USDA Texture Classes: HC (more than 60% clay).,Très fin,Très fin (classes de texture USDA : HC (plus de 60 % d’argile)).
+CS,Coarse Skeletal,"Coarse Skeletal (USDA Texture Classes: VGS, VGLS).",Grossier squelettique,"Grossier squelettique (classes de texture USDA : VGS, VGLS)."
+MS,Medium Skeletal,"Medium Skeletal (USDA Texture Classes: VGSL, VGL).",Moyen squelettique,"Moyen squelettique (classes de texture USDA : VGSL, VGL)."
+FS,Fine Skeletal,Fine Skeletal (USDA Texture Classes: VGC).,Fin squelettique,Fin squelettique (classes de texture USDA : VGC).
+FR,Fragmental,Fragmental,Fragmentaire,Fragmentaire
+SM,Stratified (Mineral),Stratified (Mineral),Stratifié (minéral),Stratifié (minéral)
+SU,Stratified (Mineral and Organic),Stratified (Mineral and Organic),Stratifié (minéral et organique),Stratifié (minéral et organique)
+FI,Fibric,Fibric,Fibrique,Fibrique
+ME,Mesic,Mesic,Mésique,Mésique
+HU,Humic,Humic,Humique,Humique
+UD,Undifferentiated,Undifferentiated,Indifférencié,Indifférencié
+-,Not Applicable,Not Applicable,Sans objet,Sans objet
