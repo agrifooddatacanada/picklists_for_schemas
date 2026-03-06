@@ -1,0 +1,16 @@
+﻿,title,description,keywords,source
+general,,,,https://sis.agr.gc.ca/cansis/nsdb/soil/v2/snt/watertbl.html
+en, Water Table Characteristics,"Indicates the presence of a water table at a depth of 100cm, and identifies its temporal characteristics.",,
+fr,Caractéristiques de la nappe phréatique,Indique la présence d’une nappe phréatique à une profondeur de 100 cm et précise ses caractéristiques temporelles.,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Code,Class_en,Description_en,Class_fr,Description_fr
+YB,Always,The water table is always present in the soil.,Toujours,La nappe phréatique est toujours présente dans le sol.
+YG,Growing season,The water table is present in the soil during the growing season.,Saison de croissance,La nappe phréatique est présente dans le sol pendant la saison de croissance.
+YN,Non growing season,The water table is present in the soil during the non growing season.,Hors saison de croissance,La nappe phréatique est présente dans le sol pendant la saison hors croissance.
+YU,Unspecified period,The water table is present in the soil during an unspecified period.,Période non précisée,La nappe phréatique est présente dans le sol pendant une période non précisée.
+NO,Never,The water table is not present in the soil at any time.,Jamais,La nappe phréatique n’est jamais présente dans le sol.
+-,Not applicable,Not applicable.,Sans objet / Non applicable,Sans objet. / Non applicable.
