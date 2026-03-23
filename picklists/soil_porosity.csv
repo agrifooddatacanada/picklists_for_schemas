@@ -1,0 +1,15 @@
+﻿title,description,keywords,source, 
+general,,,https://www.biologydiscussion.com/soil/physical-and-chemical-properties-of-soil/7220, 
+en,Soil porosity class,Total porosity class.,, 
+fr,Classe de porosité du sol,Classe de porosité totale,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+PORVL,Very low,Total porosity very low,Très faible,Porosité totale très faible
+PORL,Low,Total porosity low,Faible,Porosité totale faible
+PORM,Moderate,Total porosity moderate,Modérée,Porosité totale modérée
+PORH,High,Total porosity high,Élevée,Porosité totale élevée
+PORVH,Very high,Total porosity very high,Très élevée,Porosité totale très élevée

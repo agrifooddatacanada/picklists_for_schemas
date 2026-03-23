@@ -1,0 +1,13 @@
+﻿title,description,keywords,source, 
+general,,,https://www.biologydiscussion.com/soil/physical-and-chemical-properties-of-soil/7220, 
+en,Soil erodibility class,Susceptibility to erosion (qualitative).,, 
+fr,Classe d’érodibilité du sol,Susceptibilité à l’érosion (qualitative).,, 
+,,,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+ERL,Low,Low susceptibility to erosion,Faible,Faible susceptibilité à l’érosion
+ERM,Moderate,Moderate susceptibility to erosion,Modérée,Susceptibilité modérée à l’érosion
+ERH,High,High susceptibility to erosion,Élevée,Forte susceptibilité à l’érosion

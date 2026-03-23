@@ -1,0 +1,14 @@
+﻿title,description,keywords,source, 
+general,,,https://ucanr.edu/?legacy-file=29072.pdf&legacy-file-path=sites/gardenweb/files/, 
+en,Carbon-to-Nitrogen (C:N) ratio class,C:N ratio categories.,, 
+fr,Classe du rapport carbone-azote (C:N),Catégories de C:N.,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+CNL,Low,C:N < 10,Faible,C:N < 10
+CNM,Medium,C:N 10-20,Moyen,C:N 10-20
+CNH,High,C:N > 20,Élevé,C:N > 20
+,,,, 

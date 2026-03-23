@@ -1,0 +1,13 @@
+﻿title,description,keywords,source, 
+general,,,https://ucanr.edu/?legacy-file=29072.pdf&legacy-file-path=sites/gardenweb/files/, 
+en,Soil fertility class,General inherent soil fertility.,, 
+fr,Classe de fertilité du sol,Fertilité intrinsèque générale.,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+FERL,Low,Low inherent fertility,Faible,Faible fertilité intrinsèque
+FERM,Medium,Medium inherent fertility,Moyen,Fertilité intrinsèque moyenne
+FERH,High,High inherent fertility,Élevé,Forte fertilité intrinsèque

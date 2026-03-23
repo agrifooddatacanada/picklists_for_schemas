@@ -1,0 +1,21 @@
+﻿title,description,keywords,source,
+general,,,https://www.nrcs.usda.gov/sites/default/files/2022-10/soil_ph.pdf,
+en,Soil pH class,Standard NRCS soil pH range classes.,, 
+fr,Classe de pH du sol,Plages de pH normalisées (NRCS),, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+UA,Ultra acidic,pH < 3.5,Ultra acide,"pH < 3,5 "
+EA,Extremely acidic,pH 3.5-4.4,Extrêmement acide,"pH 3,5-4,4 "
+VSA,Very strongly acidic,pH 4.5-5.0,Très fortement acide,"pH 4,5-5,0 "
+SA,Strongly acidic,pH 5.1-5.5,Fortement acide,"pH 5,1-5,5 "
+MA,Moderately acidic,pH 5.6-6.0,Modérément acide,"pH 5,6-6,0 "
+SLA,Slightly acidic,pH 6.1-6.5,Légèrement acide,"pH 6,1-6,5 "
+NE,Neutral,pH 6.6-7.3,Neutre,"pH 6,6-7,3 "
+SLK,Slightly alkaline,pH 7.4-7.8,Légèrement alcalin,"pH 7,4-7,8 "
+MK,Moderately alkaline,pH 7.9-8.4,Modérément alcalin,"pH 7,9-8,4 "
+SK,Strongly alkaline,pH 8.5-9.0,Fortement alcalin,"pH 8,5-9,0 "
+VSK,Very strongly alkaline,pH > 9.0,Très fortement alcalin,"pH > 9,0 "

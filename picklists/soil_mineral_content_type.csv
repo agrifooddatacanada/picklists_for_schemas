@@ -1,0 +1,14 @@
+﻿title,description,keywords,source, 
+general,,,https://ucanr.edu/?legacy-file=29072.pdf&legacy-file-path=sites/gardenweb/files/, 
+en,Soil mineral content type,Dominant mineralogical character.,, 
+fr,Type de contenu minéral du sol,Caractère minéralogique dominant.,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+MINQ,Quartz-rich,Dominant quartz mineralogy,Riche en quartz,Minéralogie dominée par le quartz
+MINC,Carbonate-rich,High carbonate content,Riche en carbonates,Teneur élevée en carbonates
+MINA,Clay-rich,High clay mineral content,Riche en argiles,Teneur élevée en minéraux argileux
+MINM,Mixed mineralogy,Mixed or undifferentiated,Minéralogie mixte,Mixte ou indifférenciée

@@ -1,0 +1,15 @@
+﻿general,,,https://ucanr.edu/?legacy-file=29072.pdf&legacy-file-path=sites/gardenweb/files/, 
+en,Effective rooting depth class,Depth available for roots.,, 
+fr,Classe de profondeur d’enracinement efficace,Profondeur disponible pour les racines.,, 
+,,,, 
+,,,, 
+,,,,
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+RDVS,Very shallow,< 25 cm,Très faible profondeur,< 25 cm
+RDSH,Shallow,25–50 cm,Peu profond,25–50 cm
+RDM,Moderate,50–100 cm,Modéré,50–100 cm
+RDD,Deep,100–150 cm,Profond,100–150 cm
+RDVD,Very deep,> 150 cm,Très profond,> 150 cm

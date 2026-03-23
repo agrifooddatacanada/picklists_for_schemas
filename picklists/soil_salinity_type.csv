@@ -1,0 +1,14 @@
+﻿title,description,keywords,source, 
+general,,,https://ucanr.edu/?legacy-file=29072.pdf&legacy-file-path=sites/gardenweb/files/, 
+en,Soil salinity type (dominant anion),Dominant salt type in saline conditions.,, 
+fr,Type de salinité du sol (anion dominant),Type de sel dominant en conditions salines.,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+STCL,Chloride-dominated,Chloride salts predominate,À dominante chlorure,Sels de chlorure dominants 
+STSO,Sulfate-dominated,Sulfate salts predominate,À dominante sulfate,Sels de sulfate dominants 
+STCB,Carbonate/bicarbonate-dominated,Carbonate/bicarbonate salts predominate,À dominante carbonate/bicarbonate,Sels de carbonate/bicarbonate dominants 
+STMX,Mixed salts,No single anion dominates,Mélange de sels,Aucun anion dominant 

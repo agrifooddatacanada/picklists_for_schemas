@@ -1,0 +1,13 @@
+﻿title,description,keywords,source, 
+general,,,https://static.ixambee.com/public/miscellaneous-pdf/physical_and_chemical_properties_of_soil1720241418.pdf, 
+en,Soil aeration status,Qualitative oxygen availability status.,, 
+fr,Statut d’aération du sol,Statut qualitatif de disponibilité en oxygène.,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+AERW,Well-aerated,Good oxygen availability,Bien aéré,Bonne disponibilité en oxygène
+AERM,Moderately aerated,Moderate oxygen availability,Modérément aéré,Disponibilité en oxygène modérée
+AERP,Poorly aerated (anaerobic),Low oxygen; anaerobic conditions,Mal aéré (anaérobie),Faible oxygène; conditions anaérobies

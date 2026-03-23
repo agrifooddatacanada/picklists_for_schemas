@@ -1,0 +1,13 @@
+﻿title,description,keywords,source,
+general,,,https://www.undrr.org/understanding-disaster-risk/terminology/hips/en0303,
+en,Soil sodicity class (SAR/ESP),Classification using Sodium Adsorption Ratio (SAR) and/or Exchangeable Sodium Percentage (ESP).,,
+fr,Classe de sodicité du sol (SAR/ESP),Classification selon le rapport d’adsorption du sodium (SAR) et/ou le pourcentage de sodium échangeable (ESP).,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+NSD,Non-sodic,SAR < 13 and/or ESP < 15,Non sodique,SAR < 13 and/or ESP < 15
+SD,Sodic,SAR ≥ 13 and/or ESP ≥ 15,Sodique,SAR ≥ 13 and/or ESP ≥ 15
+,,,, 

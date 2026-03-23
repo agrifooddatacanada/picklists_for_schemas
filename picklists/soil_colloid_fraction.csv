@@ -1,0 +1,13 @@
+﻿title,description,keywords,source, 
+general,,,https://lecture-notes.tiu.edu.iq/wp-content/uploads/2025/03/BIO212_W6_Lect.6_2024-2025.pdf, 
+en,Soil colloid fraction class,Relative abundance of colloids.,, 
+fr,Classe de fraction colloïdale du sol,Abondance relative des colloïdes.,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+COLL,Low,Low colloid fraction,Faible,Faible fraction colloïdale
+COLM,Medium,Medium colloid fraction,Moyenne,Fraction colloïdale moyenne
+COLH,High,High colloid fraction,Élevée,Forte fraction colloïdale

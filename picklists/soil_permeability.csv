@@ -1,0 +1,15 @@
+﻿title,description,keywords,source, 
+general,,,https://www.biologydiscussion.com/soil/physical-and-chemical-properties-of-soil/7220, 
+en,Soil permeability class,Saturated hydraulic conductivity (qualitative classes).,, 
+fr,Classe de perméabilité du sol,Conductivité hydraulique saturée (classes qualitatives).,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+KPVS,Very slow,Saturated hydraulic conductivity very slow,Très lente,Conductivité hydraulique saturée très lente
+KPS,Slow,Saturated hydraulic conductivity slow,Lente,Conductivité hydraulique saturée lente
+KPM,Moderate,Saturated hydraulic conductivity moderate,Modérée,Conductivité hydraulique saturée modérée
+KPR,Rapid,Saturated hydraulic conductivity rapid,Rapide,Conductivité hydraulique saturée rapide
+KPVR,Very rapid,Saturated hydraulic conductivity very rapid,Très rapide,Conductivité hydraulique saturée très rapide

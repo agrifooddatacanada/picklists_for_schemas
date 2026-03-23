@@ -1,0 +1,15 @@
+﻿title,description,keywords,source, 
+general,,,https://ucanr.edu/?legacy-file=29072.pdf&legacy-file-path=sites/gardenweb/files/, 
+en,Soil organic matter class,Organic matter percentage class.,, 
+fr,Classe de matière organique du sol,Classe de pourcentage de matiÃ¨re organique.,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+SOMVL,Very low,< 1% organic matter,Très faible,< 1 % de matière organique
+SOML,Low,1–2% organic matter,Faible,1–2 % de matière organique
+SOMM,Moderate,2–4% organic matter,Modéré,2–4 % de matière organique
+SOMH,High,4–8% organic matter,Élevé,4–8 % de matière organique
+SOMVH,Very high,> 8% organic matter,Très élevé,8 % de matière organique

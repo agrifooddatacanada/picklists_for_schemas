@@ -1,0 +1,13 @@
+﻿title,description,keywords,source, 
+general,,,https://www.biologydiscussion.com/soil/physical-and-chemical-properties-of-soil/7220, 
+en,Soil compressibility class,Relative compressibility category.,, 
+fr,Classe de compressibilité du sol,Catégorie de compressibilité relative.,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+CMPL,Low,Low compressibility,Faible,Compressibilité faible
+CMPM,Moderate,Moderate compressibility,Modérée,Compressibilité modérée
+CMPH,High,High compressibility,Élevée,Compressibilité élevée

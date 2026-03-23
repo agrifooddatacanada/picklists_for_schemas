@@ -1,0 +1,22 @@
+﻿title,description,keywords,source, 
+general,,,https://www.nrcs.usda.gov/, 
+en,Soil texture class,USDA-NRCS 12-class soil texture scheme.,, 
+fr,Classe texturale du sol,Schéma à 12 classes de l’USDA‑NRCS,, 
+,,,, 
+,,,, 
+,,,,
+,,,, 
+,,,, 
+Code,Class_en,Description_en,Class_fr,Description_fr 
+SND,Sand,Coarse soil with large particles and rapid drainage.,Sable,Sol grossier à grosses particules et drainage rapide.
+LSA,Loamy sand,Very sandy soil with slightly improved water holding.,Sable loameux,Sol très sableux avec rétention d’eau légèrement meilleure.
+SLM,Sandy loam,Sandy soil that holds more water and nutrients than sand.,Limon sableux,Sol sableux retenant mieux l’eau et les nutriments que le sable.
+LOM,Loam,"Balanced mix of sand, silt and clay with good tilth.",Limon,Mélange équilibré sable–limon–argile à bonne structure.
+SIL,Silt loam,Smooth soil that holds water well and drains slowly.,Limon limoneux,Sol lisse à bonne rétention d’eau et drainage lent.
+SIT,Silt,Fine soil with silky feel and high water holding.,Limons,Sol fin au toucher soyeux et forte rétention d’eau.
+SCL,Sandy clay loam,Coarser fine‑textured mix with moderate water holding.,Limon argilo-sableux,Mélange plus fin à drainage modéré.
+CLM,Clay loam,Fine‑textured mix with slower drainage and higher fertility.,Limon argileux,Texture fine; drainage lent et fertilité élevée.
+SCLo,Silty clay loam,Fine‑textured soil with slow drainage and strong nutrient holding.,Limon argilo-limoneux,Texture fine; drainage lent et bonne rétention.
+SAC,Sandy clay,Clayey soil containing sand with slow drainage.,Argile sableuse,Sol argileux avec sable; drainage lent.
+SIC,Silty clay,Clayey soil containing silt with slow drainage.,Argile limoneuse,Sol argileux avec limon; drainage lent.
+CLY,Clay,Very fine soil with slow drainage and high nutrient holding.,Argile,"Sol très fin, drainage lent et forte capacité nutritive."
