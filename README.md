@@ -16,7 +16,8 @@ When a schema containing picklists is used to generate a Data Entry Excel sheet,
 Picklists are especially useful for categorical variables such as status, method type, location category, or classification codes, where consistent terminology is essential for reliable aggregation and analysis.
 
 # Syntax for .csv picklists
-The first 9 rows contain space for the picklist metadata with headings on row 1.
+The first 9 rows contain space for the picklist metadata with headings on row 1. 
+The general row is for language independent information. Below are rows available for language specific metadata.
 
 Starting on row 10 are the headings of the picklist itself and picklist data is contained in row 11.
 
