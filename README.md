@@ -25,7 +25,7 @@ There is no requirement for the syntax of the picklist, users can look at the co
 
 | | title | description | keywords | source |  
 |----------|-------|-------------|----------|--------|
-| general  |       |             |https://soilquality.nres.illinois.edu/bulk-density/ | |
+| general  |       |           |   |https://soilquality.nres.illinois.edu/bulk-density/ | 
 | en       | Bulk density class | Generalized classes; specific restrictive thresholds depend on texture. |          |        |
 | fr       | Classe de densité apparente | Classes généralisées; les seuils restrictifs dépendent de la texture. |          |        |
 | | | | | |
