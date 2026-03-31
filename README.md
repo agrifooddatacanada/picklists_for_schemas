@@ -17,7 +17,7 @@ Picklists are especially useful for categorical variables such as status, method
 
 # Syntax for .csv picklists
 The first 9 rows contain space for the picklist metadata with headings on row 1. 
-The general row is for language independent information. Below are rows available for language specific metadata.
+The general row is for language independent information. Below are rows available for language specific metadata. The order of the language doesn't matter, but the first column must specify the language used.
 
 Starting on row 10 are the headings of the picklist itself and picklist data is contained in row 11.
 
@@ -28,7 +28,7 @@ There is no requirement for the syntax of the picklist, users can look at the co
 | general  |       |           |   |https://soilquality.nres.illinois.edu/bulk-density/ | 
 | en       | Bulk density class | Generalized classes; specific restrictive thresholds depend on texture. |          |        |
 | fr       | Classe de densité apparente | Classes généralisées; les seuils restrictifs dépendent de la texture. |          |        |
-| | | | | |
+|es |Clase de densidad aparente | Clases generalizadas; los umbrales restrictivos específicos dependen de la textura.| | |
 | | | | | |
 | | | | | |
 | | | | | |
