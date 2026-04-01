@@ -1,0 +1,24 @@
+,title,description,keywords,source
+general,,,,https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=pop038
+en,Highest level of education (Statistics Canada),Highest certificate diploma or degree completed based on Statistics Canada census classification.,education level;highest certificate;Statistics Canada;census education,
+fr,Niveau de scolarité le plus élevé (Statistique Canada),Certificat diplôme ou grade le plus élevé obtenu selon la classification du recensement de Statistique Canada.,niveau de scolarité;plus haut diplôme;Statistique Canada;recensement,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+symbol,label_en,label_fr
+NCD,No certificate diploma or degree,Aucun certificat diplôme ou grade
+SEC,High (secondary) school diploma or equivalency certificate,Diplôme d’études secondaires ou certificat d’équivalence
+NTC,Non-apprenticeship trades certificate or diploma,Certificat ou diplôme de métiers sans apprentissage
+APP,Apprenticeship certificate,Certificat d’apprentissage
+C31,College CEGEP or other non-university certificate or diploma from a program of 3 months to less than 1 year,Certificat ou diplôme collégial cégep ou autre établissement non universitaire programme de 3 mois à moins d’un an
+C12,College CEGEP or other non-university certificate or diploma from a program of 1 year to 2 years,Certificat ou diplôme collégial cégep ou autre établissement non universitaire programme de 1 à 2 ans
+C2P,College CEGEP or other non-university certificate or diploma from a program of more than 2 years,Certificat ou diplôme collégial cégep ou autre établissement non universitaire programme de plus de 2 ans
+UCB,University certificate or diploma below bachelor level,Certificat ou diplôme universitaire inférieur au baccalauréat
+BD,Bachelor’s degree,Baccalauréat
+UCA,University certificate or diploma above bachelor level,Certificat ou diplôme universitaire supérieur au baccalauréat
+MDP,Degree in medicine dentistry veterinary medicine or optometry,Diplôme en médecine dentisterie médecine vétérinaire ou optométrie
+MS,Master’s degree,Maîtrise
+PHD,Earned doctorate,Doctorat

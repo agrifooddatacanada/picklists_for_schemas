@@ -1,0 +1,16 @@
+,title,description,keywords,source
+general,,,,
+en,Frequency scale,Frequency with which an activity behaviour or event occurs over a typical time period.,frequency scale;occurrence rate;survey responses,
+fr,Échelle de fréquence,Fréquence à laquelle une activité un comportement ou un événement se produit sur une période typique.,échelle de fréquence;taux d’occurrence;réponses de sondage,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+symbol,label_en,label_fr
+ED,Every day,Tous les jours
+FTW,A few times per week,Quelques fois par semaine
+OW,Once a week,Une fois par semaine
+OM,Once a month,Une fois par mois
+FT,A few times per year,Quelques fois par année
+NV,Never,Jamais

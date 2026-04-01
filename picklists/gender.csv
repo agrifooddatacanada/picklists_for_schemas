@@ -1,0 +1,15 @@
+,title,description,keywords,source
+general,,,,
+en,Gender identity,Self-identified gender of the respondent.,gender identity;demographics;self-identification;survey responses,
+fr,Identité de genre,Genre avec lequel la personne répondante s’identifie.,identité de genre;données démographiques;auto-identification;réponses de sondage,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+symbol,label_en,label_fr
+F,Female,Femme
+M,Male,Homme
+NB,Non-binary (gender diverse),Non binaire (diversité de genre)
+OTH,Other,Autre
+PNS,Prefer not to say,Préfère ne pas répondre

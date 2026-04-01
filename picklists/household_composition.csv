@@ -1,0 +1,16 @@
+,title,description,keywords,source
+general,,,,
+en,Household structure,Composition and living arrangement of the household.,household structure;living arrangement;household composition;demographics,
+fr,Structure du ménage,Composition et type de cohabitation du ménage.,structure du ménage;composition du ménage;mode de vie;données démographiques,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+symbol,label_en,label_fr
+LO,I live on my own,Je vis seul·e
+CLT,Couple living together,Couple vivant ensemble
+FC,Family with children,Famille avec enfants
+MLG,Multigenerational (two or more families living together),Ménage multigénérationnel (deux familles ou plus vivant ensemble)
+Oth,Other,Autre
+PNS,Prefer not to say,Préfère ne pas répondre

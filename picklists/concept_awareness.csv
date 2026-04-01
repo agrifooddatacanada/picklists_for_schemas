@@ -1,0 +1,13 @@
+,title,description,keywords,source
+general,,,,
+en,Awareness of concept,Whether the respondent has previously heard of or is aware of a concept topic or subject.,awareness;familiarity;knowledge;survey responses,
+fr,Sensibilisation à un concept,Indique si la personne répondante a déjà entendu parler ou est consciente d’un concept d’un sujet ou d’un thème.,sensibilisation;familiarité;connaissance;réponses de sondage,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+symbol,label_en,label_fr
+Y,Yes,Oui
+N,No,Non
+DK,I don't know,Je ne sais pas

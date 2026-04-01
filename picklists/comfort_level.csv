@@ -1,0 +1,18 @@
+,title,description,keywords,source
+general,,,,
+en,Comfort level scale,Level of comfort or discomfort expressed in relation to a subject option or comparison.,comfort level;attitudes;perceptions;survey responses,
+fr,Échelle de niveau de confort,Niveau de confort ou d’inconfort exprimé par rapport à un sujet une option ou une comparaison.,niveau de confort;attitudes;perceptions;réponses de sondage,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+symbol,label_en,label_fr
+MLC,Much less comfortable with genetically modified rice than cellular agriculture,Beaucoup moins à l’aise avec le riz génétiquement modifié qu’avec l’agriculture cellulaire
+LC,Less comfortable,Moins à l’aise
+LLC,A little less comfortable,Un peu moins à l’aise
+SLC,Same level of comfort,Même niveau de confort
+LMC,A little more comfortable,Un peu plus à l’aise
+MC,More comfortable,Plus à l’aise
+MMC,Much more comfortable with genetically modified rice than cellular agriculture,Beaucoup plus à l’aise avec le riz génétiquement modifié qu’avec l’agriculture cellulaire
+DK,Don't know,Ne sait pas

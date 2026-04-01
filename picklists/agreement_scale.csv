@@ -1,0 +1,19 @@
+,title,description,keywords,source
+general,,,, 
+en,Agreement scale,Standard agreement response scale from strongly agree to strongly disagree.,agreement;likert scale;survey responses,
+fr,Échelle d’accord,Échelle de réponses standard allant de tout à fait d’accord à tout à fait en désaccord.,accord;échelle de Likert;réponses de sondage,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+numeric_code,label_en,short_code,label_fr
+1,Strongly agree,SA,Tout à fait d’accord
+2,Agree,AG,D’accord
+3,Mildly agree,MA,Plutôt d’accord
+4,Neither agree nor disagree,NAD,Ni d’accord ni en désaccord
+5,Mildly disagree,MD,Plutôt pas d’accord
+6,Disagree,DA,Pas d’accord
+7,Strongly disagree,SD,Tout à fait en désaccord
+8,Don't know,DK,Ne sait pas
+

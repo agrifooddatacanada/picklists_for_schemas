@@ -1,0 +1,18 @@
+,title,description,keywords,source
+general,,,,
+en,Support scale,Level of support or opposition expressed toward a proposal idea policy or action.,support;opposition;attitudes;survey responses,
+fr,Échelle de soutien,Niveau de soutien ou d’opposition exprimé à l’égard d’une proposition d’une idée d’une politique ou d’une action.,soutien;opposition;attitudes;réponses de sondage,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+symbol,label_en,label_fr
+SO,Strongly oppose,Fermement opposé·e
+OP,Oppose,Opposé·e
+MO,Mildly oppose,Plutôt opposé·e
+NOS,Neither oppose nor support,Ni opposé·e ni favorable
+MS,Mildly support,Plutôt favorable
+SU,Support,Favorable
+SS,Strongly support,Fermement favorable
+DK,Don't know,Ne sait pas
