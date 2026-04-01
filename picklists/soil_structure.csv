@@ -1,17 +1,17 @@
 ,title,description,keywords,source
 general,,,,https://iastate.pressbooks.pub/introsoilscience/chapter/soilstructure/
-en,Soil structure type,Primary ped shapes used in soil description.,, 
-fr,Type de structure du sol,Formes principales des agrégats (peds).,, 
-,,,, 
-,,,, 
+en,Soil structure type,Primary ped shapes used in soil description.,,
+fr,Type de structure du sol,Formes principales des agrÃ©gats (peds).,,
 ,,,,
-,,,, 
-,,,, 
-Code,Class_en,Description_en,Class_fr,Description_fr 
-GR,Granular,Rounded aggregates; common in A horizons,Granulaire,Agrégats arrondis; fréquent dans l’horizon A
-BL,Blocky,Angular or subangular blocks; common in B horizons,Blocailleux,Blocs anguleux ou subanguleux; fréquent dans l’horizon B
-PL,Platy,Horizontal plates; may impede vertical flow,Planaire,Plaques horizontales; peut freiner l’écoulement vertical
-PR,Prismatic,Vertical prisms with flat tops,Prismatique,Prismes verticaux à sommet plat
-CO,Columnar,Vertical columns with rounded tops; often sodic,Columnaire,Colonnes verticales à sommet arrondi; souvent sodiques
-MS,Massive,"Structureless, coherent mass",Massif,Sans structure; masse cohérente 
-SG,Single-grained,Structureless; loose sand,Grains simples,Sans structure; sable meuble 
+,,,,
+,,,,
+,,,,
+,,,,
+Code,Class_en,Description_en,Class_fr,Description_fr
+GR,Granular,Rounded aggregates; common in A horizons,Granulaire,AgrÃ©gats arrondis; frÃ©quents dans lâ€™horizon A
+BL,Blocky,Angular or subangular blocks; common in B horizons,Blocailleux,Blocs anguleux ou subanguleux; frÃ©quents dans lâ€™horizon B
+PL,Platy,Horizontal plates; may impede vertical flow,Planaire,Plaques horizontales; peut freiner lâ€™Ã©coulement vertical
+PR,Prismatic,Vertical prisms with flat tops,Prismatique,Prismes verticaux Ã  sommet plat
+CO,Columnar,Vertical columns with rounded tops; often sodic,Columnaire,Colonnes verticales Ã  sommet arrondi; souvent sodiques
+MS,Massive,"Structureless, coherent mass",Massif,Sans structure; masse cohÃ©rente
+SG,Single-grained,Structureless; loose sand,Grains simples,Sans structure; sable meuble

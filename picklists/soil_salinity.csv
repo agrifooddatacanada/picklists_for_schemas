@@ -1,15 +1,15 @@
 ,title,description,keywords,source
 general,,,,https://www.nrcs.usda.gov/sites/default/files/2022-10/Soil%20Electrical%20Conductivity.pdf
-en,Soil salinity class (ECe),Classes based on electrical conductivity of the saturation paste extract (dS/m).,, 
-fr,Classe de salinité du sol (ECe),Classes basées sur la conductivité électrique de l’extrait de pâte saturée (dS/m).,, 
-,,,, 
-,,,, 
-,,,, 
+en,Soil salinity class (ECe),Classes based on electrical conductivity of the saturation paste extract (dS/m).,,
+fr,Classe de salinitÃ© du sol (ECe),Classes basÃ©es sur la conductivitÃ© Ã©lectrique de lâ€™extrait de pÃ¢te saturÃ©e (dS/m).,,
 ,,,,
-,,,, 
-Code,Class_en,Description_en,Class_fr,Description_fr 
+,,,,
+,,,,
+,,,,
+,,,,
+Code,Class_en,Description_en,Class_fr,Description_fr
 NS,Non-saline,ECe < 2 dS/m,Non salin,ECe < 2 dS/m
-SS,Slightly saline,ECe 2-4 dS/m,Légèrement salin,ECe 2-4 dS/m
-MS,Moderately saline,ECe 4-8 dS/m,Modérément salin,ECe 4-8 dS/m
+SS,Slightly saline,ECe 2-4 dS/m,LÃ©gÃ¨rement salin,ECe 2-4 dS/m
+MS,Moderately saline,ECe 4-8 dS/m,ModÃ©rÃ©ment salin,ECe 4-8 dS/m
 STS,Strongly saline,ECe 8-16 dS/m,Fortement salin,ECe 8-16 dS/m
-VSS,Very strongly saline,ECe > 16 dS/m,Très fortement salin,ECe > 16 dS/m
+VSS,Very strongly saline,ECe > 16 dS/m,TrÃ¨s fortement salin,ECe > 16 dS/m

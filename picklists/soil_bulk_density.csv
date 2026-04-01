@@ -1,13 +1,13 @@
 ,title,description,keywords,source
-general,,,https://soilquality.nres.illinois.edu/bulk-density/, 
-en,Bulk density class,Generalized classes; specific restrictive thresholds depend on texture.,, 
-fr,Classe de densité apparente,Classes généralisées; les seuils restrictifs dépendent de la texture.,, 
-,,,, 
+general,,,https://soilquality.nres.illinois.edu/bulk-density/,
+en,Bulk density class,Generalized classes; specific restrictive thresholds depend on texture.,,
+fr,Classe de densitÃ© apparente,Classes gÃ©nÃ©ralisÃ©es; les seuils restrictifs dÃ©pendent de la texture.,,
 ,,,,
-,,,, 
-,,,, 
-,,,, 
-Code,Class_en,Description_en,Class_fr,Description_fr 
-BDL,Low,Favorable for root growth (texture-dependent),Faible,Favorable à l’enracinement (selon la texture)
-BDM,Moderate,May affect growth (approaching restrictive),Modéré,Peut affecter la croissance (proche du restrictif) 
-BDH,High,Restrictive to roots (texture-dependent),Élevé,Restrictif pour les racines (selon la texture) 
+,,,,
+,,,,
+,,,,
+,,,,
+Code,Class_en,Description_en,Class_fr,Description_fr
+BDL,Low,Favorable for root growth (texture-dependent),Faible,Favorable Ã  lâ€™enracinement (selon la texture)
+BDM,Moderate,May affect growth (approaching restrictive),ModÃ©rÃ©,Peut affecter la croissance (proche du restrictif)
+BDH,High,Restrictive to roots (texture-dependent),Ã‰levÃ©,Restrictif pour les racines (selon la texture)
