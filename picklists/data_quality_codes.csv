@@ -1,0 +1,58 @@
+,title,description,keywords
+general,,,
+en,Data Quality Codes,A controlled picklist of codes used to describe the quality, status, and provenance of research data values,"data quality, quality control, data flags, research data, data status, provenance, missing values, detection limits"
+fr,Codes de qualité des données,Une liste de choix contrôlée de codes utilisés pour décrire la qualité, le statut et la provenance des valeurs de données de recherche,"qualité des données, contrôle de la qualité, indicateurs de données, données de recherche, statut des données, provenance, valeurs manquantes, limites de détection"
+
+
+
+
+
+code,en_description,fr_description
+1,Unaltered data,Données non modifiées
+2,Manually corrected data,Données corrigées manuellement
+3,Calibration corrected data,Données corrigées par étalonnage
+4,Estimated data,Données estimées
+5,Modelled data,Données modélisées
+6,Derived data,Données dérivées
+7,Aggregated data,Données agrégées
+8,Interpolated data,Données interpolées
+9,Extrapolated data,Données extrapolées
+10,Rounded data,Données arrondies
+11,Standardized data,Données normalisées
+12,Transformed data,Données transformées
+13,Validated data,Données validées
+14,Verified data,Données vérifiées
+15,Provisional data,Données provisoires
+16,Preliminary data,Données préliminaires
+17,Final data,Données finales
+18,Revised data,Données révisées
+19,Deprecated data,Données dépréciées
+20,Duplicated data,Données dupliquées
+100,Null value,Valeur nulle
+101,Missing value,Valeur manquante
+102,Not applicable,Sans objet
+103,Not measured,Non mesuré
+104,Not reported,Non déclaré
+105,Value masked for privacy,Valeur masquée pour des raisons de confidentialité
+106,Value withheld,Valeur retenue
+107,Value redacted,Valeur expurgée
+200,Below detection limit,Sous la limite de détection
+201,Above detection limit,Au-dessus de la limite de détection
+202,Below quantification limit,Sous la limite de quantification
+203,Above quantification limit,Au-dessus de la limite de quantification
+204,Below reporting threshold,Sous le seuil de déclaration
+205,Above reporting threshold,Au-dessus du seuil de déclaration
+300,Suspect data,Données suspectes
+301,Outlier,Valeur aberrante
+302,Instrument error,Erreur d'instrument
+303,Transcription error,Erreur de transcription
+304,Sampling error,Erreur d'échantillonnage
+305,Processing error,Erreur de traitement
+306,Contamination detected,Contamination détectée
+307,Data entry error,Erreur de saisie de données
+308,Unit conversion error,Erreur de conversion d'unité
+309,Reference material failure,Défaillance du matériau de référence
+400,Data pending review,Données en attente de révision
+401,Data under embargo,Données sous embargo
+402,Data archived,Données archivées
+403,Data retracted,Données rétractées
