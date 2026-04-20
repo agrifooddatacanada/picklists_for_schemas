@@ -1,27 +1,27 @@
-# Picklists for schemas
+# Entry Codes for schemas
 
-Picklists, also known as enumerations (enums), define a controlled set of allowable values for a field in a schema. Instead of accepting free-text input, a picklist restricts entries to predefined options (e.g., "Low", "Medium", "High").
+Entry codes, also known as enumerations (enums) or picklists, define a controlled set of allowable values for a field in a schema. Instead of accepting free-text input, a picklist restricts entries to predefined options (e.g., "Low", "Medium", "High").
 
-In schema design, picklists serve two primary purposes:
+In schema design, entry codes serve two primary purposes:
 
 * Data consistency – Prevents spelling variations, synonyms, and ambiguous entries
 * Validation – Ensures that only approved values are recorded, improving downstream analysis and interoperability.
 
 Within the Semantic Engine, you can:
-* Select an existing picklist from pick lists catalogued in this repository, or
-* Generate a custom picklist tailored to your project needs.
+* Select existing entry codes from entry codes catalogued in this repository, or
+* Generate custom entry codes tailored to your project needs.
 
-When a schema containing picklists is used to generate a Data Entry Excel sheet, these controlled values appear as dropdown menus. This constrains user input at the point of entry and reduces the need for later data cleaning.
+When a schema containing entry codes is used to generate a Data Entry Excel sheet, these controlled values appear as dropdown menus. This constrains user input at the point of entry and reduces the need for later data cleaning.
 
-Picklists are especially useful for categorical variables such as status, method type, location category, or classification codes, where consistent terminology is essential for reliable aggregation and analysis.
+Entry codes are especially useful for categorical variables such as status, method type, location category, or classification codes, where consistent terminology is essential for reliable aggregation and analysis.
 
 # Syntax for .csv picklists
-The first 9 rows contain space for the picklist metadata with headings on row 1. 
+The first 9 rows contain space for the entry code metadata with headings on row 1. 
 The general row is for language independent information. Below are rows available for language specific metadata. The order of the language doesn't matter, but the first column must specify the language used.
 
-Starting on row 10 are the headings of the picklist itself and picklist data is contained in row 11.
+Starting on row 10 are the headings of the entry code list itself and entry code data is contained in row 11.
 
-There is no requirement for the syntax of the picklist, users can look at the column titles and select which picklist columns they want to use in their schema.
+There is no requirement for the syntax of the entry codes, users can look at the column titles and select which entry code columns they want to use in their schema.
 
 | | title | description | keywords | source |  
 |----------|-------|-------------|----------|--------|
