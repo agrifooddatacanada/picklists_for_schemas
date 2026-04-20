@@ -15,7 +15,11 @@ When a schema containing entry codes is used to generate a Data Entry Excel shee
 
 Entry codes are especially useful for categorical variables such as status, method type, location category, or classification codes, where consistent terminology is essential for reliable aggregation and analysis.
 
-# Syntax for .csv picklists
+# Backend library for the Semantic Engine
+
+This repostitory contains entry code lists stored as .csv files which are automatically ingested into the Semantic Engine and used to generate the library where they are available for us. We welcome contributions of new entry code lists via the suggestion of new .csv files.
+
+# Syntax for .csv entry codes
 The first 9 rows contain space for the entry code metadata with headings on row 1. 
 The general row is for language independent information. Below are rows available for language specific metadata. The order of the language doesn't matter, but the first column must specify the language used.
 
