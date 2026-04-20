@@ -17,7 +17,7 @@ Entry codes are especially useful for categorical variables such as status, meth
 
 # Backend library for the Semantic Engine
 
-This repostitory contains entry code lists stored as .csv files which are automatically ingested into the Semantic Engine and used to generate the library where they are available for us. We welcome contributions of new entry code lists via the suggestion of new .csv files.
+This repostitory contains entry code lists stored as .csv files which are automatically ingested into the Semantic Engine and used to generate the library where they are available for use. We welcome contributions of new entry code lists via the suggestion of new .csv files.
 
 # Syntax for .csv entry codes
 The first 9 rows contain space for the entry code metadata with headings on row 1. 
