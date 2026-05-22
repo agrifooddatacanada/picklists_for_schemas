@@ -7,7 +7,7 @@ fr,Codes de qualité des données,Une liste de choix contrôlée de codes utilis
 
 
 
-code,en_description,fr_description
+code,description_en,description_fr
 1,Unaltered data,Données non modifiées
 2,Manually corrected data,Données corrigées manuellement
 3,Calibration corrected data,Données corrigées par étalonnage
